@@ -1,7 +1,12 @@
 def square_array(number)
- square_numbers = [] 
- while square_array 
- square_array.push(number * number) 
+numbers = [1,2,3]
+ 
+square_array(numbers)
+# => [1,4,9])
+ 
+new_numbers = [9,10,16,25]
+ 
+square_array(new_numbers)
 end
 square_numbers
 end
