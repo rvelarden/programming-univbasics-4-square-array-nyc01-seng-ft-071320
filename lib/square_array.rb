@@ -6,5 +6,5 @@ num = array[counter]
  new_numbers.push(num * num)
 counter = counter + 1 
 end
-square_array(new_numbers)
+new_numbers
 end
