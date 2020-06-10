@@ -3,5 +3,6 @@ def square_array(array)
  counter = 0
 while 
 
+end
 square_array(new_numbers)
 end
