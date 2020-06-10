@@ -1,6 +1,6 @@
 def square_array(array)
  square_numbers = [] 
-while  
+while elements 
 
 square_numbers
 end
