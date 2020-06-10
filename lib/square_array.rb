@@ -1,8 +1,7 @@
-def square_array(number)
-
-new_numbers = [1,4,9]
- 
-square_array(new_numbers)
+def square_array(array)
+ square_numbers = [] 
+ while square_numbers 
+ square_array.push(element * element) 
 end
 square_numbers
 end
